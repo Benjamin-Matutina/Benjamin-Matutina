@@ -1,3 +1,4 @@
+<img src="https://your-dark-banner-image-url.com/banner.png" alt="Benjamin Matutina banner" style="width:100%; border-radius: 10px;">
 # 👋 Hi, I'm Benjamin Matutina
 
 🎓 Financial and Business Economics graduate  
