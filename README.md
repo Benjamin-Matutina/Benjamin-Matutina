@@ -31,3 +31,5 @@ Whether it's financial dashboards, report automation, or economic modeling, I’
 ---
 
 🛠️ *Always building. Always learning.*
+
+ <img src="https://your-dark-banner-image-url.com/banner.png" alt="Benjamin Matutina banner" style="width:100%; border-radius: 10px;">
