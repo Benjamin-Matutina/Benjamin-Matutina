@@ -3,9 +3,9 @@
 🚀 **Check out some of my projects:**  
 👉 [Crafted By Ben - Excel & Power BI Dashboards](https://github.com/Benjamin-Matutina/crafted-by-ben)
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="150" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="150" />
-<img src="https://img.shields.io/badge/VBA-007ACC?style=for-the-badge&logo=visual-basic&logoColor=white" width="150" />
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-007ACC?style=for-the-badge&logo=visual-basic&logoColor=white)
 
 # Currently Learning
 
