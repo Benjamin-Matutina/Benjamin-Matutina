@@ -22,11 +22,16 @@ Whether it's financial dashboards, report automation, or economic modeling, I’
 
 ---
 
-## 📂 Projects
+### 📊 Key Skills & Projects
 
-- 📊 **Excel Dashboards** – Visual, interactive reports for business use  
-- ⚙️ **VBA Automation** – Streamlined repetitive processes for Excel users  
-- 🧪 **Coming Soon** – Python & SQL data analytics projects
+- **Excel Dashboards**  
+  Visual, interactive reports designed to simplify business insights and decision-making.
+
+- **VBA Automation**  
+  Streamlining repetitive Excel tasks through custom macros and automation scripts.
+
+- **🧪 Coming Soon**  
+  Exploring Python and SQL for advanced data analytics and automation projects.
 
 ---
 
