@@ -8,13 +8,7 @@
 ![VBA](https://img.shields.io/badge/VBA-007ACC?style=for-the-badge&logo=visual-basic&logoColor=white)
 
 ## Currently Learning
-<img src="https://media.giphy.com/media/3o7aD4HhGdY0heYu8c/giphy.gif" alt="Animated Banner" width="100%" />
-
-**Excel:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
-**Power BI:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
-**VBA:** 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%  
-**Python:** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%  
-**SQL:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -51,5 +45,13 @@ Whether it's financial dashboards, report automation, or economic modeling, I’
 🔗 LinkedIn: [linkedin.com/in/benjamin-matutina](https://www.linkedin.com/in/benjamin-matutina/details/organizations/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-matutina/details/organizations/)
 
 ---
+
+## SKill Chart
+**Excel:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
+**Power BI:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
+**VBA:** 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%  
+**Python:** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%  
+**SQL:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+
 
 🛠️ *Always building. Always learning.*
