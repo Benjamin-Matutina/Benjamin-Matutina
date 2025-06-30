@@ -2,6 +2,7 @@
 
 🚀 **Check out some of my projects:**  
 👉 [Crafted By Ben - Excel & Power BI Dashboards](https://github.com/Benjamin-Matutina/crafted-by-ben)
+👉 [Crafted By Ben - Python Basic Projects](https://github.com/Benjamin-Matutina/PythonProject1)
 
 ---
 
