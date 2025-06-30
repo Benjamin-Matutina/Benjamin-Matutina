@@ -12,9 +12,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-Matutina&show_icons=true&theme=radical" alt="Benjamin's GitHub stats" />
-</div>
+
 
 ## 💼 About Me
 
@@ -45,7 +43,10 @@ Whether it's financial dashboards, report automation, or economic modeling, I’
 🔗 LinkedIn: [linkedin.com/in/benjamin-matutina](https://www.linkedin.com/in/benjamin-matutina/details/organizations/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-matutina/details/organizations/)
 
 ---
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Benjamin-Matutina&show_icons=true&theme=radical" alt="Benjamin's GitHub stats" />
+</div>
+---
 ## SKill Chart
 **Excel:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
 **Power BI:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
