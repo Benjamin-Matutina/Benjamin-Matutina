@@ -12,6 +12,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
+![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Matutina&show_icons=true&theme=radical)
+
 ## 💼 About Me
 
 I'm a data-driven economics graduate who enjoys building tools that help businesses make better decisions. My current strengths are in Excel, Power BI, and VBA automation — and I'm now expanding into Python and SQL to deepen my data analytics toolkit.
