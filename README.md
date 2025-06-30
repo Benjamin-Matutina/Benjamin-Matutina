@@ -10,6 +10,12 @@
 ## Currently Learning
 <img src="https://media.giphy.com/media/3o7aD4HhGdY0heYu8c/giphy.gif" alt="Animated Banner" width="100%" />
 
+**Excel:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
+**Power BI:** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
+**VBA:** 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40%  
+**Python:** 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10%  
+**SQL:** 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+
 ---
 
 <div align="center">
