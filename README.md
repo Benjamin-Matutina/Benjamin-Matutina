@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Benjamin Matutina
 
 🚀 **Check out some of my projects:**  
-👉 [Crafted By Ben - Excel & Power BI Dashboards](https://github.com/Benjamin-Matutina/crafted-by-ben)
-
-👉 [Crafted By Ben - Python Basic Projects](https://github.com/Benjamin-Matutina/PythonProject1)
+1. 👉 [Crafted By Ben - Excel & Power BI Dashboards](https://github.com/Benjamin-Matutina/crafted-by-ben)
+2. 👉 [Crafted By Ben - Python Basic Projects](https://github.com/Benjamin-Matutina/PythonProject1)
 
 ---
 
