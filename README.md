@@ -39,10 +39,9 @@ Whether it's financial dashboards, report automation, or economic modeling, I’
 
 ## 📫 Let's Connect
 
-📧 Email: [Benjaminmatutina02@gmail.com](mailto:Benjaminmatutina02@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/benjamin-matutina](https://www.linkedin.com/in/benjamin-matutina/details/organizations/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-matutina/details/organizations/)
+📧 Email: [Benjaminmatutina02@gmail.com](mailto:Benjaminmatutina02@gmail.com) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Benjaminmatutina02@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/benjamin-matutina](https://www.linkedin.com/in/benjamin-matutina/details/organizations/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-matutina/details/organizations/)
 
 ---
 
