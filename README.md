@@ -3,11 +3,10 @@
 🚀 **Check out some of my projects:**  
 👉 [Crafted By Ben - Excel & Power BI Dashboards](https://github.com/Benjamin-Matutina/crafted-by-ben)
 
-🎓 Financial and Business Economics graduate  
-📊 Excel • Power BI • VBA  
-🧠 Learning Python & SQL  
-📈 Passionate about transforming data into insights
-
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![VBA](https://img.shields.io/badge/VBA-007ACC?style=for-the-badge&logo=visual-basic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 💼 About Me
