@@ -32,7 +32,7 @@ Whether it's financial dashboards, report automation, or economic modeling, I’
 - **VBA Automation**  
   Streamlining repetitive Excel tasks through custom macros and automation scripts.
 
-- **🧪 Coming Soon**  
+- **Coming Soon**  
   Exploring Python and SQL for advanced data analytics and automation projects.
 
 ---
