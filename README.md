@@ -7,7 +7,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VBA](https://img.shields.io/badge/VBA-007ACC?style=for-the-badge&logo=visual-basic&logoColor=white)
 
-# Currently Learning
+## Currently Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
